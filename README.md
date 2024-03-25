@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sheetfan
+- 👋 Hi, I’m @Buzwane
 - 👀 I’m interested in coding and games and websites
 - 🌱 I’m currently learning more about react
 - 💞️ I’m looking to collaborate on things
